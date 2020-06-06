@@ -4,7 +4,7 @@ django-compressor==2.2
 django-extensions==2.1.2
 django-tables2==2.0.3
 django-webpack-loader
-Django==2.1.5
+Django==2.2.13
 Werkzeug
 djangorestframework
 mysqlclient==1.3.13
